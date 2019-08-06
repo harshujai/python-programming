@@ -1,0 +1,2 @@
+girl(seema).
+dad(rohan).
